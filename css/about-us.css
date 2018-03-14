@@ -1,0 +1,40 @@
+body {
+  background-color: #e6ffcc !important;
+}
+
+
+.about-image {
+  border-radius: 50%;
+  max-height: 200px;
+  border: 10px solid;
+  vertical-align: center;
+}
+
+.text-center
+{
+  text-align: center;
+}
+
+h4 {
+  padding: 30px 20px 30px 20px;
+  text-align: center;
+}
+
+img {
+    vertical-align: center;
+}
+
+.jumbotron {
+  background-size: cover;
+  background-color: white !important;
+}
+
+h3 {
+    padding: 30px 20px 30px 20px;
+}
+
+@media screen and (min-width: 768px)
+.jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
