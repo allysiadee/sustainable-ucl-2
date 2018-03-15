@@ -1,7 +1,7 @@
-body {
-  background-color: #e6ffcc !important;
+body{
+  background: url("https://www.xmple.com/wallpaper/blue-gradient-white-linear-1920x1080-c2-87cefa-ffffff-a-105-f-14.svg") no-repeat center center fixed;
+  background-size: cover;
 }
-
 
 .about-image {
   border-radius: 50%;

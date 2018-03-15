@@ -1,17 +1,23 @@
 html {
-    background:url('images/treecanopy.jpeg');
+    background :url('');
     width: 100%;
     height: 350px;
 }
+
+
 div.jumbotron {
   height: 350px;
   color: white;
   text-shadow: #444 0 1px 1px;
   background:transparent;
 }
+body{
+  background: url("https://www.xmple.com/wallpaper/blue-gradient-white-linear-1920x1080-c2-87cefa-ffffff-a-105-f-14.svg") no-repeat center center fixed;
+  background-size: cover;
+}
 
 .body {
- font-family: 'Didact Gothic';font-size: 22px;
+ font-family: 'Helvetica';font-size: 22px;
 }
 
 
@@ -23,8 +29,9 @@ div.jumbotron {
 
 h1,
 .navbar-brand,
+
 .navbar-nav a {
-  font-family: 'Merriweather', serif;
+  font-family: 'Helvetica', serif;
 }
 
 body {
